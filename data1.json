@@ -1,0 +1,156 @@
+{
+  "users": [
+    {
+      "email": "eniya1@gmail.com",
+      "password": "password",
+      "firstname": "eniya",
+      "lastname": "vignesh",
+      "id": 1,
+      "type": "admin"
+    },
+    {
+      "email": "vignesh@gmail.com",
+      "password": "password",
+      "firstname": "eniya",
+      "lastname": "vi",
+      "id": 1,
+      "type": "user"
+    }
+  ],
+  "list": [
+    {
+      "id": 1,
+      "image": "BMW320d.jpg",
+      "type": "Exhaust Systems"
+    },
+    {
+      "id": 2,
+      "image": "bugatti.jfif",
+      "type": "Twin-Turbos"
+    },
+    {
+      "id": 3,
+      "image": "turbokitsbmw.jfif",
+      "type": "SuperCharger"
+    },
+    {
+      "id": 4,
+      "image": "widebodybmw.jfif",
+      "type": "Widebody Kits"
+    }
+  ],
+  "products": [
+    {
+      "name": "BMW series3",
+      "description": "BMW series 3 is the most powerfull engine car in BMW",
+      "image": "BMW320d.jpg",
+      "id": 1,
+      "type": "Exhaust Systems"
+    },
+    {
+      "name": "Porsche",
+      "description": "This article is about the full lineage of Porsche 911 model runs. For the original 911 series,",
+      "image": "porsche.jfif",
+      "id": 2,
+      "type": "Exhaust Systems"
+    },
+    {
+      "name": "Bugatti",
+      "description": "The original version has a top speed of 407 km/h (253 mph).[6][7] It was named the 2000s Car of the Decade by the BBC television programme Top Gear. The standard Veyron also won Top Gear's Best Car Driven All Year award in 2005.",
+      "image": "bugatti.jfif",
+      "id": 3,
+      "type": "Exhaust Systems"
+    },
+    {
+      "name": "AudiA8",
+      "description": "A mechanically upgraded, high-performance version of the A8 debuted in 1996 as the Audi S8. Produced exclusively at Audi's Neckarsulm plant, the S8 is fitted standard with Audi's quattro all-wheel drive system.",
+      "image": "audi.jfif",
+      "id": 4,
+      "type": "Superchargers"
+    },
+    {
+      "name": "Lancer",
+      "description": "The most top supercharge cars in this world.",
+      "image": "lancer.jfif",
+      "id": 5,
+      "type": "Superchargers"
+    },
+    {
+      "name": "Lamborghini",
+      "description": "Lambo is also most powerfull super charge cars.",
+      "image": "lamborghini.jfif",
+      "id": 6,
+      "type": "Superchargers"
+    },
+    {
+      "name": "MClaren",
+      "description": " mclaren have twin turbo kits to boost up the power.",
+      "image": "mclaren.jfif",
+      "id": 7,
+      "type": "Twin-Turbo kits"
+    },
+    {
+      "name": "Pagani",
+      "description": "Boost up pagani over 800hp+ Monsters",
+      "image": "pagani.jfif",
+      "id": 8,
+      "type": "Twin-Turbo kits"
+    },
+    {
+      "name": "Widebodybmw",
+      "description": "Custom Carbon Fibre Widebody to make your BMW more aggressive. ",
+      "image": "widebodybmw.jfif",
+      "id": 9,
+      "type": "Widebody Kits"
+    },
+    {
+      "name": "BenzCLA200",
+      "description": "Have most powerfull twin-turbo kits in Benz CLA200",
+      "image": "benz.jfif",
+      "id": 10,
+      "type": "Twin-Turbo kits"
+    }    
+  ],
+  "reviews": [
+    {
+      "id": 3632,
+      "name": "Damon",
+      "email": "damon@dde.com",
+      "type": "Gintani F1 Package",
+      "message": "This is literally screaming like an wolf, Loving it"
+    },
+    {
+      "id": 1427,
+      "name": "viki",
+      "email": "vikee@gmail.com",
+      "type": "Twin-Turbo kits",
+      "message": "Absolute crazy power up...and also bigger flames"
+    },
+    {
+      "id": "1",
+      "name": "vikee",
+      "email": "vikee@gmail.com",
+      "type": "Merch",
+      "message": "Loving the merch, cool af"
+    }
+  ],
+  "contactus": [
+    {
+      "id": 96655,
+      "fname": "eniya",
+      "lname": "vignesh",
+      "email": "vikki@gmail.com",
+      "message": "Pimp up your ride with BR Racing"
+    }
+  ],
+  "fourm": [
+    {
+      "type": "Exhaust System",
+      "message": "The ESS E39 M5 G1 supercharger system delivers unparalleled acceleration"
+    },
+    {
+      "type": "Widebody kits",
+      "message": "MADE OF THE HIGHEST QUALITY ABS PLASTIC MADE IN TAIWAN"
+    }
+  ]
+}
